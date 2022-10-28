@@ -1,0 +1,22 @@
+.container {
+    border-style: groove;
+    width: 300px;
+    height: 475px;
+    margin: auto;
+}
+
+input {
+    width: 280px;
+    height: 50px;
+    margin: 6px;
+}
+
+button {
+    width: 80px;
+    height: 50px;
+    margin: 7px;
+}
+
+.buttons{
+    margin-top: 1%;
+}
